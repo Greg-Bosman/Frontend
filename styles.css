@@ -295,8 +295,10 @@ https://www.youtube.com/watch?v=moBhzSC455o&t=1904s */
     font-size: 3em;
     margin-bottom: 0.5rem;
     padding: 1rem 0;
-    background-color: rgba(0, 0, 0, 0.5);
-
+    background-image: repeating-linear-gradient(-45deg, blue, #ff00f7 200px);
+    mix-blend-mode: lighten;
+    
+/*    mix-blend-mode bron: https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode*/
 }
 
 .artiest-container {

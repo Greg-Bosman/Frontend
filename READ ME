@@ -19,7 +19,10 @@ Gradient in text:
 >https://alligator.io/css/gradient-borders-pure-css/
 
 Transitie van gradient achtergrond:
-https://www.youtube.com/watch?v=fBRzD6dwJfw
+>https://www.youtube.com/watch?v=fBRzD6dwJfw
+
+Mix-and-blend-mode:
+>https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode
 
 Grid Home pagina:
 >https://www.w3schools.com/cssref/tryit.asp?filename=trycss_grid-template-areas2
@@ -52,4 +55,5 @@ Veranderd:
 Gradient borders toegevoegd aan knoppen bij focus state.
 Een aantal classes weggehaald.
 Media Query toegevoegd aan grid zodat het meer responsive is.
-Gradient transition toegevoegd als hover state van 
+Gradient transition toegevoegd als hover state van "zie alle events" knop.
+Repeating gradient en blend mode gebruikt.
