@@ -6,12 +6,19 @@ Foto's:
 >Down the Rabbit Whole site
 >https://edmidentity.com/2015/10/01/beyond-wonderland-bay-area-2015-event-review/
 >https://wegotthiscovered.com/music/full-nocturnal-wonderland-2015-lineup-revealed/
+>https://pbs.twimg.com/media/Dy1bKn2WkAAFrWl.jpg
+>https://imgs.ototoy.jp/feature/image.php/2018041101/_DSC2981.jpg?width=1200
+>https://pbs.twimg.com/media/Dy1bKn2WkAAFrWl.jpg
+>https://play.google.com/store/music/artist/Kovacs?id=Au5zyjlknlrk2yfesmh2h3kavi4&hl=en_US
+>https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiiw6CUk6TnAhXLJFAKHfY1CqMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.chicagotribune.com%2Fentertainment%2Fmusic%2Fct-mavis-staples-nathaniel-rateliff-review-ent-1209-20161208-story.html&psig=AOvVaw1eOZFok6p_m9hnj3Q_r0vR&ust=1580227147718491
+>https://www.cultture.com/44258-primavera-sound-dia-1-baxter-dury-the-afghan-whigs-beirut-the-xx-y-franz-ferdinand
+>bron: https://commons.wikimedia.org/wiki/File:Alex_Vargas_-_Portrait_by_Hannah_Hillier_-_August,_2015.JPG
 
 Gradient in text:
 >https://www.youtube.com/watch?v=OAMTLkZiyJM
 >https://alligator.io/css/gradient-borders-pure-css/
 
-Veranderen van achtergrond:
+Transitie van gradient achtergrond:
 https://www.youtube.com/watch?v=fBRzD6dwJfw
 
 Grid Home pagina:
@@ -20,6 +27,7 @@ Grid Home pagina:
 
 Javascript:
 >https://www.youtube.com/watch?v=riDzcEQbX6k
+>https://flaviocopes.com/javascript-async-defer/
 
 overige bronnen:
 >https://flaviocopes.com/javascript-async-defer/
@@ -44,3 +52,4 @@ Veranderd:
 Gradient borders toegevoegd aan knoppen bij focus state.
 Een aantal classes weggehaald.
 Media Query toegevoegd aan grid zodat het meer responsive is.
+Gradient transition toegevoegd als hover state van 

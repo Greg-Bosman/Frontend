@@ -91,7 +91,7 @@ nav a {
     border: 1px solid;
 }
 
-nav li{
+nav li {
      display: inline-block;
 }
 
@@ -146,16 +146,7 @@ article {
     background-color: white;
     margin: 1em;
     display: inline-block;
-    width: 20em;
-/*
-    border: 3px solid;
-      border-image-source: -webkit-linear-gradient(bottom left, #ff00f7, #00d0ff);
-      border-image-source: -o-linear-gradient(bottom left, #ff00f7, #00d0ff);
-      border-image-source: linear-gradient(to top right, #ff00f7, #00d0ff);
-      border-image-slice: 1;
-*/
-/*    Bron gradient border: https://alligator.io/css/gradient-borders-pure-css/*/
-    
+    width: 20em;    
 }
 
 .flex-container {
@@ -194,7 +185,6 @@ article {
 .tekst-container > q {
     display: block;
     margin: 1em 0;
-    ;
     padding-top: 1em;
     border-top: 1px solid gray;
     font-size: 0.8em;
@@ -220,14 +210,14 @@ article {
     justify-content: center;
 }
 
-.btn-positioner a:hover{
+.btn-positioner a:hover {
     background: linear-gradient(-45deg, #ff00f7, #00d0ff);
     background-size: 400%;
     position: relative;
     animation: change 3s ease-in-out infinite;
 }
 
-@keyframes change{
+@keyframes change {
     0%{
         background-position: 0 50%;
     }
@@ -271,7 +261,7 @@ UITGELICHT EVENEMENT BEGIN
 ========================================
 */
 
-/*Grid gemaakt met:
+/*Grid gemaakt met behulp van:
 https://www.w3schools.com/cssref/tryit.asp?filename=trycss_grid-template-areas2
 
 https://www.youtube.com/watch?v=moBhzSC455o&t=1904s */
@@ -291,17 +281,12 @@ https://www.youtube.com/watch?v=moBhzSC455o&t=1904s */
 .grid-container-uitgelichte-events header {
     grid-column: 1/6;
     grid-row: 1/4;
-/*
-    grid-row-start: 1;
-    grid-row-end: 4;
-*/
     background-image: url(images/header-images/toverbos.jpeg);
 
-
-    /*    bron: Danny de Vries*/
     object-fit: contain;
     background-position: center center;
     background-repeat: no-repeat;
+    /*    bron: Danny de Vries*/
 }
 
 .grid-container-uitgelichte-events h3 {
@@ -352,29 +337,21 @@ li h5{
 }
 
 
-@media(min-width: 1120px){
+@media(min-width: 1120px) {
     .grid-container-uitgelichte-events header{
         grid-column: 1/4;
         margin-left: 10%;
     }
-    .artiest-container{
+    .artiest-container {
         display:block;
         width: 33vw;
     }
     
-    .artiest-container ul{
+    .artiest-container ul {
         width: 100%;
         max-width: 720px;
     }
 }
-
-/*
-.grid-container-uitgelichte-events > h4{
-    font-size: 5em;
-    grid-column: 4/6;
-    color: white;
-}
-*/
 
 
 /*======================================
@@ -419,18 +396,18 @@ input {
     margin-bottom: 1em;
 }
 
-input:focus{
+input:focus {
     background-color: #00d0ff;
 }
 
-form > input{
+form > input {
     width: 20em;
     color: white;
     background-color: #00d0ff;
     margin: 2em auto;
 }
 
-form > input:focus{
+form > input:focus {
     background-color: blue;
 }
 
